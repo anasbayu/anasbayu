@@ -11,5 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Hi! I am @anasbayu who goes by the name 'arshavyna' online.
-I am a technical product manager. I love building things.
-Feel free to reach out to me :)
+I am a game developer. I am currently making an awesome game. be right back! :)
