@@ -10,5 +10,4 @@ anasbayu/anasbayu is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi! I am @anasbayu who goes by the name 'arshavyna' online.
-I am a game developer. I am currently making an awesome game. be right back! :)
+Hi! I am @anasbayu who goes by the name 'Celty' online. 
